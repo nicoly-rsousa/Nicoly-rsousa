@@ -1,6 +1,6 @@
   # 👩🏻‍💻 Nicoly Rodrigues
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Júnior FullStack`**
 
 
 Me chamo Nicoly Rodrigues, tenho 23 anos e sou natural de Minas Gerais. Concluí o ensino médio no IFRP, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na Estácio e profissionalmente sou Educadora de cursos na Microlins de Cataguases. 
