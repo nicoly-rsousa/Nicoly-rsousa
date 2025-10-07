@@ -3,7 +3,7 @@
 **`Desenvolvedora Júnior FullStack`**
 
 
-Me chamo Nicoly Rodrigues, tenho 23 anos e sou natural de Minas Gerais. Concluí o ensino médio no IFRP, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na Estácio, Desenvolvimento de Sistemas - Rio Pomba Valley e profissionalmente sou Educadora de cursos na Microlins de Cataguases. 
+Me chamo Nicoly Rodrigues, tenho 23 anos e sou natural de Minas Gerais. Concluí o ensino médio no IFRP, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na Estácio e Técnico em Desenvolvimento de Sistemas - Rio Pomba Valley, profissionalmente sou Educadora na Microlins de Cataguases. 
 
 
 ### 🤖 Linguagens e Tecnologias
